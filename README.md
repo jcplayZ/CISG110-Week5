@@ -1,2 +1,8 @@
 # CISG110-Week5
-Week 5 code-along demo and Godot Minigame 2.
+## Devlog
+Put your Devlog here.
+
+## Open-Source Assets
+- [Cat sprites](https://toffeecraft.itch.io/cat-pixel-mega-pack)
+- [Kenny's abstract platformer set](https://kenney.nl/assets/abstract-platformer)
+- [Rainy Hearts font](https://www.dafont.com/rainyhearts.font)
